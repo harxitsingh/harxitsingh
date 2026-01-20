@@ -5,7 +5,7 @@ MERN Stack Learner | DSA in Progress | Aspiring Full Stack Developer
 💻 Practicing Daily: DSA (Arrays, Strings, LinkedList, Trees)
 📚 Course: B.Tech CSE (IoT & Blockchain)
 🔗 Building: Real-world projects using React + Vite
-🔥 Goal 2026: Become a solid Full-Stack Developer
+
 
 🛠️ Tech Stack
 
