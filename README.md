@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Harshit Singh
+MERN Stack Learner | DSA in Progress | Aspiring Full Stack Developer
 
-<!--
-**harxitsingh/harxitsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently Learning: MERN Stack (MongoDB, Express, React, Node)
+💻 Practicing Daily: DSA (Arrays, Strings, LinkedList, Trees)
+📚 Course: B.Tech CSE (IoT & Blockchain)
+🔗 Building: Real-world projects using React + Vite
+🔥 Goal 2026: Become a solid Full-Stack Developer
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React.js, JavaScript, HTML, CSS, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools: Git, GitHub, VS Code
+Other: DSA (Java)
