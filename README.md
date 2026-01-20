@@ -1,38 +1,82 @@
-<!-- Header Banner -->
-<h1 align="center">👋 Hi, I’m <span style="color:#00E8FF;">Harshit Singh</span></h1>
-<h3 align="center">🚀 MERN Stack Learner | DSA in Progress | Future Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Harshit Singh</h1>
+<h3 align="center">Full Stack Developer (in progress) | MERN & DSA Learner</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E4FF&center=true&vCenter=true&width=600&lines=Building+projects+daily🔥;Learning+MERN+Stack;DSA+for+placements;Becoming+a+Full+Stack+Dev+🚀">
+  <img src="https://komarev.com/ghpvc/?username=harxitsingh&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="harxitsingh" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 B.Tech CSE (IoT & Blockchain)  
-- 🌱 Learning **MERN Stack** (React, Node, Express, MongoDB)  
-- 💡 Practicing **DSA** daily (Java)  
-- ⚡ Building real projects to grow consistently  
-- 🎯 Goal 2026 → **Full Stack Developer + Strong GitHub**  
+## 🚀 About Me  
+- 🌱 I’m currently learning **MERN Stack**  
+- 💻 Practicing **DSA (Java)** daily  
+- 🎯 Goal: Become a **Full Stack Developer**  
+- 🔭 Building multiple **React + Vite Projects**  
+- 📫 Reach me at: **harxitsingh@gmail.com**  
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
+
 ### **Frontend**
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend**
-![NodeJS](https://img.shields.io/badge/Node.js-74AC5D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harxitsingh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harxitsingh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harxitsingh&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+### ⭐ Calculator App (React + Vite)
+A clean and responsive calculator built using React components.
+
+### ⭐ Todo App
+Task manager with add/delete features using React hooks.
+
+_(Zyada projects add karte jaoge, yeh section aur strong hota jayega.)_
+
+---
+
+## 🔗 Connect With Me  
+<p>
+  <a href="https://linkedin.com/in/harxitsingh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+I’m not just learning — I’m improving every single day 🚀
+
