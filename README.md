@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
-<h3 align="center">Full Stack Developer (in progress) | MERN & DSA Learner</h3>
+<h3 align="center">Full Stack Developer | MERN & DSA Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harxitsingh&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
@@ -11,7 +11,6 @@
 - 🌱 Learning **MERN Stack**  
 - 💻 Practicing **DSA in Java**  
 - 🔥 Building **React + Vite projects**  
-- 🎯 Goal: Become a **Full Stack Developer**  
 - 📫 Mail: **harxitsingh@gmail.com**
 
 ---
@@ -75,10 +74,10 @@ Simple task manager using React hooks.
 
 ## 🔗 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/harxitsingh" target="_blank">
+  <a href="https://www.linkedin.com/in/harshitsingh-cse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/Harshitsingh3/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
 </p>
