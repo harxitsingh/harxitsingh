@@ -89,13 +89,19 @@ Classic 3x3 JS game with win logic.
 
 # 🔗 Connect With Me  
 <p align="center">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/harshitsingh-cse/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   &nbsp;&nbsp;&nbsp;
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/harshitsingh7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="50" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
 </p>
 
 ---
