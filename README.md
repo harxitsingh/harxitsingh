@@ -6,7 +6,10 @@
 <!-- 🌊 Animated Dark Wave -->
 <img src="https://raw.githubusercontent.com/ashutosh1919/theme-assets/master/wave-dark.svg" width="100%" />
 
----
+---<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&weight=700&size=40&duration=2000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Harshit+Singh;Full+Stack+Developer;MERN+%7C+Java+DSA+%7C+React+Engineer" />
+</h1>
+
 
 ## 🌌 About Me
 - 🚀 MERN Stack Developer  
