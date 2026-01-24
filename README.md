@@ -17,7 +17,7 @@
 
 ---
 
-# 🛠️ Tech Stack (Advanced Icons + Dark UI)
+# 🛠️ Tech Stack 
 
 ### 🎨 **Frontend**
 <p>
@@ -43,7 +43,7 @@
 
 ---
 
-# 📊 GitHub Status (Clean + Dark + Premium)
+# 📊 GitHub Status 
 
 <p align="center">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=harxitsingh&theme=tokyonight&show_icons=true&hide_border=true" />
@@ -60,7 +60,7 @@
 
 ---
 
-# 🚀 Featured Projects (Clean + High-End Layout)
+# 🚀 Featured Projects 
 
 ### ⭐ **MedLedger — Blockchain Medical Verification**
 Tamper-proof & secure medical verification system.
