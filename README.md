@@ -77,12 +77,10 @@ Simple task manager using React hooks.
   <a href="https://www.linkedin.com/in/harshitsingh-cse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://leetcode.com/u/Harshitsingh3/" target="_blank">
+  <a href="https://leetcode.com/u/harshitsingh7/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
 </p>
 
 ---
-
-## ✨ Fun Fact  
 I'm getting better every single day 🚀
