@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN & DSA Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harxitsingh&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?
 </p>
 
 ---
