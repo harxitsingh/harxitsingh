@@ -1,6 +1,6 @@
 <!-- 🔥 ULTRA PREMIUM ANIMATED NAME (LEXEND DECA + BLACK) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&weight=700&size=40&duration=2000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Harshit+Singh;Full+Stack+Developer;MERN+%7C+Java+DSA+%7C+React+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&weight=700&size=40&duration=2000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Harshit+Singh;Full+Stack+Developer;MERN+%7C+Java+DSA+%7C+" />
 </h1>
 
 <!-- 🌊 Animated Dark Wave -->
