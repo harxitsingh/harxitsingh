@@ -82,7 +82,7 @@ Minimal + fast + smooth animations.
 
 ---
 
-### ⭐ **Tic Tac Toe**
+### ⭐ **Tic   Tac Toe**
 Classic 3x3 JS game with win logic.
 
 ---
