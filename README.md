@@ -58,5 +58,6 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add link)
+- LinkedIn:
+- leetcode:https://leetcode.com/u/harshitsingh7/
 - GitHub: https://github.com/harxitsingh
