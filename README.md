@@ -1,7 +1,7 @@
-# Hi, I'm Harshit Singh 👋
+# Hi, I'm Harshit Singh 
 
 ## 🚀 About Me
-- B.Tech CSE Student (IoT & Blockchain Specialization)
+- B.Tech CSE Student (IoT & Blockchain )
 - Interested in Full Stack Development and Problem Solving
 - Focused on DSA + Development for placements
 - Consistent learner and builder
@@ -17,9 +17,7 @@
 
 ### Web Development
 - React.js
-- Node.js (Basic)
-- Express.js (Basic)
-- MongoDB (Learning)
+
 
 ### Computer Science
 - Data Structures & Algorithms
