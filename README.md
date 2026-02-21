@@ -1,61 +1,27 @@
-# Hi, I'm Harshit Singh 
+# 📊 GitHub Contribution Graphs
 
-## 🚀 About Me
-- B.Tech CSE Student (IoT & Blockchain )
-- Interested in Full Stack Development and Problem Solving
-- Focused on DSA + Development for placements
-- Consistent learner and builder
-
----l
-
-## 🧠 Skills
-
-### Programming Languages
-- Java
-- Python
-- JavaScript
-
-### Web Development
-- React.js
-
-
-### Computer Science
-- Data Structures & Algorithms
-- OOP Concepts
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harxitsingh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
-- React
-- Git & GitHub
-- VS Code
-- Postman
-- MySQL (Basic)
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harxitsingh&theme=tokyo-night&hide_border=true&cache_seconds=60" />
+</p>
 
 ---
 
-## 📚 Currently Learning
-- Advanced DSA (Java)
-- Backend Development
-- System Design Basics
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harxitsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60" height="180em"/>
+</p>
 
 ---
 
-## 📂 Projects
-### 🔹 Blockchain Medical Verification System
-- Secure medical record verification using blockchain
-- Focused on data security and transparency
-
----
-
-## 📈 Coding Practice
-- LeetCode
-- GitHub Contributions
-- DSA Problem Solving (Java)
-
----
-
-## 📫 Connect With Me
-- LinkedIn:
-- leetcode:https://leetcode.com/u/harshitsingh7/
-- GitHub: https://github.com/harxitsingh
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harxitsingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="180em"/>
+</p>
