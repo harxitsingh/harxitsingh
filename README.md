@@ -1,11 +1,12 @@
-# Perpetuity
+# 📊 GitHub Contribution Graphs
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harxitsingh&theme=tokyonight&hide_border=true&hide_longest_streak=true&hide_total_contributions=true&card_width=500&ring=blueviolet&fire=blueviolet&currStreakLabel=‎&sideLabels=‎&dates=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harxitsingh&theme=tokyonight&hide_border=true&ring=blueviolet&fire=blueviolet&currStreakLabel=&sideNums=false&sideLabels=false&dates=false" height="200"/>
 </p>
 
 ---
 
-##  Activity matrix
+## 📈 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harxitsingh&theme=tokyo-night&hide_border=true" />
 </p>
