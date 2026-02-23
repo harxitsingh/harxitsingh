@@ -1,8 +1,8 @@
 # 📊 GitHub Contribution Graphs
 
-## 🔥 Current Streak
+## 🔥 Current
 <p align="center">
-  <img src="https://img.shields.io/badge/Streak-37%20Days-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/37-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
