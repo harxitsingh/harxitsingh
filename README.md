@@ -1,8 +1,8 @@
 # 📊 GitHub Contribution Graphs
 
-## 🔥 Contribution Streak
+## 🔥 Current Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harxitsingh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60" />
+  <img src="https://img.shields.io/badge/Streak-37%20Days-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
