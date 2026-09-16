@@ -89,7 +89,6 @@ I practice **DSA in Java** to strengthen problem-solving skills and prepare for 
 
 <p align="center">
   <a href="https://leetcode.com/u/harshitsingh7/">
-    <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
 
