@@ -1,110 +1,327 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Harshit+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Generative+AI+Enthusiast+%F0%9F%A7%A0;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</h1>
-
+````markdown
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harshitsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+
+# Harshit Singh
+
+### Full-Stack Developer · Java & DSA · GenAI Enthusiast
+
+Building modern web applications, solving problems with DSA,
+and experimenting with AI to make software development faster and smarter.
 
 <br/>
 
-## ⚡ About Me
-I am a **B.Tech CSE Junior at Manipal Institute of Technology** (Class of 2027) with a relentless passion for building scalable web applications and integrating AI to solve real-world problems. I don't just write code; I architect solutions that leverage the power of Generative AI to create seamless user experiences. 
+<a href="https://github.com/realharxit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🧠 Currently diving deep into **Generative AI, LLMs, and OpenAI API integrations.**
-- 🚀 Hands-on experience in the **MERN Stack**, building everything from REST APIs to complex frontend dashboards.
-- 🛰️ **NASA Space Apps Challenge Participant** (2023 & 2025) – collaborating on low-earth tech and innovative prototypes.
-- 🏆 **Award-winning developer:** 1st Place at IBE (Smart Designing with Generative AI) & 2nd Place (AI Pixels Sprint).
-- 💡 Fun fact: I thrive on hackathons, DSA problem-solving (100+ LeetCode), and pushing the boundaries of what AI can do in Web Dev.
-
----
-
-## 🛠️ My Arsenal
-
-**Languages & Frontend:**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Backend, Databases & AI:**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</p>
-
-**Tools & Core:**
-<p>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-Advanced-blue?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Featured Project: AI-Powered Job Portal
-
-[![AI Job Portal](https://img.shields.io/badge/Code-Repository-blue?style=flat-square&logo=github)](YOUR_PROJECT_LINK)
-*The flagship project bridging the gap between traditional job hunting and Generative AI.*
-
-*   **AI-Driven Features:** Integrated OpenAI API to analyze resumes, generate ATS scores, identify key skill gaps, and provide personalized career advice.
-*   **Smart Matching:** Developed intelligent candidate ranking and job matching for recruiters.
-*   **Full-Stack Architecture:** Built with the MERN stack, utilizing JWT for secure, role-based access control (Recruiters & Candidates).
-*   **Core Modules:** Candidate Dashboard (profile management, application tracking) & Recruiter Dashboard (job posting, applicant tracking).
-
----
-
-## 🛰️ Experience & Achievements
-
-**NASA Space Apps Challenge 2025** | *Frontend Developer* (Oct 2025)
-*   Collaborated in a cross-functional team to design and build an innovative solution for a low-earth based tech challenge.
-*   Spearheaded frontend development, ensuring a responsive and engaging user interface within a tight hackathon deadline.
-
-**NASA Space Apps Challenge 2023** | *Core Contributor*
-*   Completed specialized learning tracks: MongoDB Basics for Students, AI and Innovation (Harnessing AI to Reshape a Resilient AI Strategy), and Web Development.
-*   Gained hands-on experience in rapid prototyping and data visualization using Python (NumPy, Pandas, Matplotlib).
-
-**🏆 Awards & Recognition**
-*   **1st Position** – Smart Designing with Generative AI (IBE)
-*   **2nd Position** – AI Pixels Sprint (Track: AI, IBE)
-*   Consistently solving Data Structures and Algorithms problems on LeetCode to sharpen problem-solving skills.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Harshit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="Harshit's GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
 </div>
 
 ---
 
-## 🤝 Let's Connect & Build Something Cool!
+## About
 
-I am actively looking for **Software Engineering / Full-Stack / AI Internship opportunities** for 2025/2026. If you are building something innovative with AI and need a passionate developer, let's talk!
+I'm a **Final-Year B.Tech CSE student** focused on building a strong foundation in
+**full-stack development, problem solving, and AI-assisted software development**.
+
+I enjoy taking an idea from:
+
+`Concept → UI → API → Database → AI Features → Deployment`
+
+My current focus is becoming a well-rounded software engineer who understands
+both **fundamentals** and the **modern tools used to build products**.
+
+- 💻 Full-Stack Development with **React, Node.js & Express**
+- ☕ Problem Solving with **Java + DSA**
+- 🤖 Exploring **Generative AI & AI-assisted development**
+- 🗄️ Working with **MongoDB & SQL**
+- 🔗 Building experiments with **Blockchain & Smart Contracts**
+- 🧩 Interested in scalable, practical and user-focused applications
+- 📈 **100+ DSA problems solved**
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### AI / GenAI
+
+![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
+![AI Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-111827?style=flat-square)
+
+**Interested in:**  
+LLM applications · Prompt Engineering · AI APIs · AI-powered features ·
+AI-assisted coding · rapid prototyping · automation
+
+### Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+
+`Remix` · `MetaMask` · `Ethers.js` · `Sepolia Testnet` · `Smart Contracts`
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Engineering Focus
+
+```text
+Frontend
+React · JavaScript · HTML · CSS · Tailwind
+
+Backend
+Node.js · Express.js · REST APIs
+
+Database
+MongoDB · SQL · Firebase
+
+Problem Solving
+Java · DSA · LeetCode
+
+Emerging Tech
+Generative AI · Blockchain · Smart Contracts
+````
+
+---
+
+## AI × Software Development
+
+I'm actively adapting my workflow around **Generative AI**, while keeping
+software fundamentals at the center.
+
+### How I use AI
+
+```text
+       IDEA
+         ↓
+   Research / Explore
+         ↓
+   AI-assisted Planning
+         ↓
+       Build
+         ↓
+   Debug & Validate
+         ↓
+     Test / Refine
+         ↓
+        Ship
+```
+
+I use AI for:
+
+* Understanding unfamiliar concepts quickly
+* Exploring architectures and implementation approaches
+* Debugging and identifying edge cases
+* Rapid prototyping
+* Documentation and developer workflows
+* Brainstorming product features
+* Building AI-powered application features
+
+> **AI is a multiplier for my development workflow — not a replacement for
+> understanding the code I'm building.**
+
+---
+
+## Featured Projects
+
+### 🚀 NextHire AI — AI Job Portal
+
+An AI-focused job portal designed around the modern job-search workflow.
+
+**Core areas**
+
+`React` · `Node.js` · `Express.js` · `MongoDB` · `GenAI`
+
+**Focus**
+
+* AI-powered career workflows
+* Modern job discovery experience
+* Resume-oriented features
+* Skill-focused recommendations
+* Full-stack application architecture
+
+---
+
+### 🔐 MedLedger — Medical Record Verification
+
+A blockchain-based application for verifying medical records and improving
+trust in digital medical data.
+
+**Tech**
+
+`React` · `JavaScript` · `Solidity` · `Ethers.js` · `Node.js`
+· `Express.js` · `Firebase`
+
+**Features**
+
+* Medical record upload
+* Record verification
+* Smart-contract based verification
+* MetaMask integration
+* Ethereum Sepolia testnet
+* Responsive web interface
+
+---
+
+## Problem Solving
+
+I use **Java** for DSA practice and focus on understanding patterns,
+complexities, and trade-offs rather than memorizing solutions.
+
+### Topics
+
+`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues`
+
+`Binary Search` · `Sorting` · `Recursion` · `Hashing`
+
+`Trees` · `Graphs` · `Greedy` · `Dynamic Programming`
+
+### LeetCode
+
+**100+ problems solved**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/)
+
+---
+
+## Current Learning
+
+```text
+Advanced JavaScript
+        ↓
+Advanced React
+        ↓
+Node.js + Express
+        ↓
+MongoDB + SQL
+        ↓
+REST APIs
+        ↓
+Backend Architecture
+        ↓
+System Design Fundamentals
+        ↓
+Generative AI Applications
+        ↓
+Cloud / Docker
+```
+
+---
+
+## What I'm Looking For
+
+I'm currently interested in opportunities where I can work on:
+
+* Full-Stack Web Development
+* Software Engineering
+* Backend Development
+* AI-powered Applications
+* Product Engineering
+
+Especially environments where I can **build, learn quickly, and work on
+real-world engineering problems**.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=realharxit&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realharxit&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=realharxit&hide_border=true&theme=transparent" />
+
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realharxit&theme=github-compact&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+## Developer Mindset
+
+```text
+Learn the fundamentals.
+        ↓
+Understand the tools.
+        ↓
+Build real projects.
+        ↓
+Use AI to move faster.
+        ↓
+Keep improving.
+```
+
+> **Build things. Break things. Understand why. Build again.**
+
+---
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harshitsingh@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-</div>
+
+### Let's Build Something Useful.
+
+**Open to opportunities, collaborations and interesting engineering problems.**
+
 <br/>
-<p align="center"><i>"Building the future, one commit at a time."</i></p>
+
+⭐ Explore my repositories
+🤝 Connect with me
+💡 Let's build
+
+</div>
+```
+
+One thing I’d **not** add for your placement profile: fake “500+ commits”, “10+ projects”, random animated GIFs, huge skill walls, or 30 different badges. They make a student README look less professional.
+
+Your strongest story is **React/Node/Express + MongoDB/SQL + Java/DSA + GenAI + real projects**. That combination should dominate the top half.
