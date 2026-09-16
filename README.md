@@ -83,15 +83,6 @@ I practice **DSA in Java** to strengthen problem-solving skills and prepare for 
 - Arrays, Strings, Linked Lists, Trees and other core data structures.
 - Regular LeetCode practice.
 
-<p align="center">
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/harshitsingh7/">
-  </a>
-</p>
-
----
 
 ### 🤖 AI & Development
 
