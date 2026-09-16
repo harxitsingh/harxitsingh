@@ -1,313 +1,141 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║  HARSHIT SINGH — GITHUB PROFILE README  (v2)                         ║
-║  ────────────────────────────────────────────────────────────────    ║
-║  FIND & REPLACE BEFORE PUSHING:                                      ║
-║    harshit-singh   →  your real GitHub username                      ║
-║    harshitsingh    →  your real LeetCode username                    ║
-║    your-linkedin   →  your real LinkedIn handle                      ║
-║    NEXTHIRE_REPO   →  your NextHire repo name                        ║
-║    NEXTHIRE_LIVE   →  your deployed URL (without https://)           ║
-║                                                                      ║
-║  Repo MUST be named exactly your username, and be PUBLIC.            ║
-║  The snake animation needs .github/workflows/snake.yml (included).   ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D8FF,100:7C3AED&height=220&section=header&text=Harshit%20Singh&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20Integration&descAlignY=58&descSize=18" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=800&lines=Hi+there!+I'm+Harshit+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+GenAI+Enthusiast+%F0%9F%A7%A0;MERN+Stack+Specialist+%F0%9F%9A%80;100%2B+LeetCode+Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00D8FF&center=true&vCenter=true&width=700&lines=I+build+full-stack+products%2C+not+just+projects.;React+%E2%80%A2+Node+%E2%80%A2+Express+%E2%80%A2+MongoDB;Shipping+AI-powered+web+applications+%F0%9F%A4%96;500%2B+DSA+problems+in+Java+and+counting.;Open+to+SDE+%2F+Full-Stack+roles+%E2%80%94+2027+batch" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:harxitsingh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/harshitsingh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://github.com/harshit-singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=harshit-singh&label=Visitors&color=00d8ff&style=for-the-badge" />
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/harshite-singh-cse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/harshitsingh7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:harshitsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D8FF,100:7C3AED&height=3&section=header" />
+<br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;whoami
+## ⚡ Executive Summary
+I am a **B.Tech CSE Junior at Manipal Institute of Technology** (Class of 2027, GPA: 9.0/10) and an award-winning developer passionate about architecting scalable web applications and integrating **Generative AI** to solve complex real-world problems. 
+
+- 🧠 **AI-Driven Mindset:** Experienced in integrating OpenAI APIs, building intelligent matching systems, and leveraging LLMs to create dynamic user experiences.
+- 🚀 **Full-Stack Architect:** Proficient in the MERN stack, building secure REST APIs, and crafting responsive frontends.
+- 🛰️ **Hackathon Veteran:** 2x NASA Space Apps Challenge participant, collaborating on innovative low-earth tech prototypes.
+- 🏆 **Award-Winning Coder:** 1st Place (Smart Designing with GenAI) & 2nd Place (AI Pixels Sprint). 100+ LeetCode problems solved.
+- 🎯 **Current Focus:** Actively seeking **Software Engineering / Full-Stack / AI Internship opportunities** for 2025/2026.
+
+---
+
+## 🛠️ Technical Arsenal
 
 <table>
-<tr>
-<td width="60%" valign="top">
-
-```ts
-const harshit: Developer = {
-  location:   "Lucknow, India 🇮🇳",
-  education:  "B.Tech CSE @ BBDU  ·  '23–'27  ·  8.0 CGPA",
-  role:       "Full-Stack Developer (MERN)",
-
-  currentlyBuilding: "NextHire AI — AI job portal",
-  currentlyLearning: ["System Design", "Advanced DP", "Docker"],
-
-  philosophy: "Don't just call the API. " +
-              "Design the product around it.",
-
-  openTo: "SDE / Full-Stack — Internship & Placement",
-};
-```
-
-<br/>
-
-- 🧠 &nbsp;I turn ideas into **deployed, working products** — not half-finished repos
-- 🤖 &nbsp;**AI-native developer** — I ship features powered by LLMs, not demos
-- ⚔️ &nbsp;Grinding **DSA in Java** daily — problem-solving is the real skill
-- 🏆 &nbsp;**2× hackathon podium finisher** · **NASA Space Apps 2025** participant
-- 📬 &nbsp;Reach me → **harxitsingh@gmail.com**
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/gist/Sonichigo/6e5fc0e4ca9d20d53a51e0aa7afb1cb1/raw/coding.gif" width="100%" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Status-Open_to_Work-00D8FF?style=for-the-badge&labelColor=0D1117" />
-<br/>
-<img src="https://img.shields.io/badge/Batch-2027-7C3AED?style=for-the-badge&labelColor=0D1117" />
-
-</td>
-</tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & DB</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI & GenAI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools & Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/DSA-Advanced-blue?style=for-the-badge" />
+    </td>
+  </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D8FF,100:7C3AED&height=3&section=header" />
+---
 
-## ⚙️ &nbsp;Arsenal
-
-<div align="center">
-
-<br/>
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm&theme=dark" />
-
-<br/>
-
-</div>
+## 🚀 Featured Project: AI-Powered Job Portal
 
 <details>
-<summary><b>📖 &nbsp;Where I actually stand with each of these</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>Click to expand: Bridging Job Hunting & Generative AI</b></summary>
 <br/>
 
-| Stack | Tech | Comfort |
-|:--|:--|:--|
-| **Language** | Java (DSA + OOP) | `████████░░` Strong |
-| **Language** | JavaScript (ES6+) | `████████░░` Strong |
-| **Language** | Python (data viz) | `█████░░░░░` Working |
-| **Frontend** | React.js — hooks, routing, state | `████████░░` Strong |
-| **Frontend** | Tailwind CSS — responsive UI | `█████████░` Strong |
-| **Backend** | Node.js + Express — REST APIs | `████████░░` Strong |
-| **Auth** | JWT, role-based access control | `███████░░░` Solid |
-| **Database** | MongoDB + Mongoose schemas | `████████░░` Strong |
-| **Database** | MySQL / DBMS fundamentals | `██████░░░░` Solid |
-| **AI** | Gemini API, prompt engineering | `████████░░` Strong |
-| **DevOps** | Git, GitHub, Vercel deploys | `███████░░░` Solid |
+*The flagship project demonstrating my ability to build production-grade, AI-integrated full-stack applications.*
 
-**Core CS:** Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks
+*   **AI-Driven Intelligence:** Integrated the OpenAI API to analyze resumes, generate ATS scores, identify key skill gaps, and provide personalized career advice to candidates.
+*   **Smart Matching Algorithm:** Developed intelligent candidate ranking and job matching for recruiters, reducing hiring time.
+*   **Secure Architecture:** Built with the MERN stack, utilizing JWT for secure, role-based access control (Recruiters & Candidates).
+*   **Core Modules:** Candidate Dashboard (profile management, application tracking) & Recruiter Dashboard (job posting, applicant tracking).
 
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API, JWT, Tailwind CSS.
+🔗 **[View Repository](YOUR_PROJECT_LINK)**
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D8FF,100:7C3AED&height=3&section=header" />
+---
 
-## 🚀 &nbsp;Featured Work
+## 🛰️ Experience & Achievements
 
-<table>
-<tr><td>
+**NASA Space Apps Challenge 2025** | *Frontend Developer* (Oct 2025)
+*   Collaborated in a cross-functional team to design and build an innovative solution for a low-earth based tech challenge.
+*   Spearheaded frontend development, ensuring a responsive and engaging user interface within a tight hackathon deadline.
 
-### 🧠 &nbsp;NextHire AI — AI-Powered Job Portal
+**NASA Space Apps Challenge 2023** | *Core Contributor*
+*   Completed specialized learning tracks: MongoDB Basics for Students, AI and Innovation (Harnessing AI to Reshape a Resilient AI Strategy), and Web Development.
+*   Gained hands-on experience in rapid prototyping and data visualization using Python (NumPy, Pandas, Matplotlib).
 
-> A full-stack hiring platform where AI doesn't decorate the product — **it is the product.**
-> Candidates upload a resume and get back an ATS score, the exact skills they're missing, and a career roadmap. Recruiters get AI-ranked applicants instead of a PDF pile.
+**🏆 Awards & Recognition**
+*   **1st Position** – Smart Designing with Generative AI (IBE)
+*   **2nd Position** – AI Pixels Sprint (Track: AI, IBE)
+*   Consistently solving Data Structures and Algorithms problems on LeetCode to sharpen problem-solving skills.
 
-<br/>
+---
 
-| | |
-|:--|:--|
-| 🔐 **Auth** | JWT-based authentication with **role-based access** — candidates and recruiters get entirely separate app surfaces |
-| 🤖 **AI Layer** | **Gemini AI** parses resumes → generates **ATS compatibility scores**, detects **skill gaps**, returns personalized career recommendations |
-| 🎯 **Matching** | AI-powered job matching between candidate profiles and live openings |
-| 📊 **Dashboards** | Recruiter: job posting + applicant tracking. Candidate: applications, profile, AI insights |
-| ⚡ **API** | RESTful architecture on **Express.js**, data modeled in **MongoDB** with efficient query design |
-| 📱 **Frontend** | **React + Tailwind** — fully responsive across desktop and mobile |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" height="40" />
-
-<br/><br/>
-
-<a href="https://github.com/harshit-singh/NEXTHIRE_REPO"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://NEXTHIRE_LIVE"><img src="https://img.shields.io/badge/Live_Demo-00D8FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-
-</td></tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>🛰️ &nbsp;NASA Space Apps Challenge 2025 — International Hackathon</b></summary>
-<br/>
-
-Built a solution on **NASA's open datasets** with a multidisciplinary team, in a 48-hour sprint.
-
-- Owned **frontend development** and contributed to problem analysis
-- Delivered a **functional prototype** under hard time pressure
-- Presented the final solution to judges
-- 🎖️ Earned the **Galactic Problem Solver** badge
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D8FF,100:7C3AED&height=3&section=header" />
-
-## 📊 &nbsp;The Numbers
+## 📊 GitHub & LeetCode Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshit-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=C9D1D9&langs_count=8" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=harshit-singh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D8FF&fire=7C3AED&currStreakLabel=00D8FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-singh&theme=tokyo-night&bg_color=0D1117&color=00D8FF&line=7C3AED&point=FFFFFF&hide_border=true&area=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshit-singh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Harshit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="Harshit's GitHub Streak" width="48%" />
 </div>
-
-### 🐍 &nbsp;Watch the snake eat my contributions
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit-singh/harshit-singh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit-singh/harshit-singh/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshit-singh/harshit-singh/output/github-snake.svg" />
-</picture>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
+  <img src="https://leetcard.jacoblin.cool/harshitsingh7?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" width="40%" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D8FF,100:7C3AED&height=3&section=header" />
-
-## ⚔️ &nbsp;DSA & Problem Solving
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/harshitsingh?theme=nord&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-<br/>
+---
 
-> **Language of choice: Java.** Consistency over intensity — I'd rather solve 2 problems every day for a year than 50 in one weekend.
+## 🤝 Let's Connect & Build Something Cool!
 
-<details>
-<summary><b>🎯 &nbsp;Topics I've drilled</b></summary>
-<br/>
-
-`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Binary Search` `Recursion` `Backtracking` `Linked Lists` `Stacks & Queues` `Trees` `BST` `Graphs` `BFS / DFS` `Greedy` `Dynamic Programming` `Bit Manipulation` `Sorting Algorithms`
-
-**Next up:** Segment Trees · Tries · Advanced Graph Algorithms · System Design fundamentals
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D8FF,100:7C3AED&height=3&section=header" />
-
-## 🏆 &nbsp;Achievements
+I am actively looking for **Software Engineering / Full-Stack / AI Internship opportunities** for 2025/2026. If you are building something innovative with AI and need a passionate developer, let's talk!
 
 <div align="center">
-
-| | Achievement | Issuer | Date |
-|:--:|:--|:--|:--:|
-| 🥇 | **1st Position** — Smart Designing with Generative AI | BBD University | Sep 2025 |
-| 🥈 | **2nd Position** — AI Pixel Sprint *(Web Track)* | BBD University | Apr 2026 |
-| 🛰️ | **Galactic Problem Solver** — Space Apps Challenge | NASA | Oct 2025 |
-
+  <a href="https://www.linkedin.com/in/harshite-singh-cse/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:harshitsingh@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/harshitsingh7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </div>
-
-<details>
-<summary><b>📜 &nbsp;Certifications</b></summary>
 <br/>
-
-| Certification | Issuer | Skills |
-|:--|:--|:--|
-| MongoDB Basics for Students | MongoDB | NoSQL, Collections, Queries |
-| AI and Innovation: Resilient AI Strategy | MongoDB | AI architecture, Vector concepts |
-| IBM Web Development | IBM | HTML5, CSS3, JavaScript |
-| IBM Data Visualization with Python | IBM | NumPy, Pandas, Matplotlib |
-| NASA Space Apps Challenge 2025 | NASA | Hackathon, Team Collaboration |
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D8FF,100:7C3AED&height=3&section=header" />
-
-## 🎓 &nbsp;Education
-
-<table>
-<tr>
-<td width="12%" align="center">🏛️</td>
-<td width="88%">
-
-**B.Tech — Computer Science & Engineering**
-*Babu Banarasi Das University, Lucknow, UP*
-`Aug 2023 – May 2027` &nbsp;·&nbsp; **CGPA 8.0 / 10**
-
-<sub>Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks</sub>
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D8FF,100:7C3AED&height=3&section=header" />
-
-## 🤝 &nbsp;Let's build something
-
-<div align="center">
-
-<br/>
-
-**I'm actively looking for Full-Stack / SDE internship and placement opportunities.**
-If you're hiring, collaborating, or just want to argue about whether `useEffect` was a mistake — my inbox is open.
-
-<br/>
-
-<a href="mailto:harxitsingh@gmail.com"><img src="https://img.shields.io/badge/harxitsingh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/harshitsingh/"><img src="https://img.shields.io/badge/Solve_with_me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/>
-
-⭐️ **If a repo of mine helped you, a star goes a long way.**
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D8FF,100:0D1117&height=140&section=footer" />
+<p align="center"><i>"Building the future, one commit at a time."</i></p>
