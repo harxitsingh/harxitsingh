@@ -84,7 +84,6 @@ I practice **DSA in Java** to strengthen problem-solving skills and prepare for 
 - Regular LeetCode practice.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshitsingh7?theme=dark&font=Karma&ext=activity" alt="Harshit Singh's LeetCode Stats" width="65%" />
 </p>
 
 <p align="center">
