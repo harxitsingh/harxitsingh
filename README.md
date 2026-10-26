@@ -82,10 +82,9 @@ A project exploring blockchain technology for medical record verification.
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harxitsingh&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harxitsingh&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harxitsingh&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 ---
 
